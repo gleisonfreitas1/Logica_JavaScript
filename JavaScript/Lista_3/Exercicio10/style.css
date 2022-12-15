@@ -1,0 +1,22 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    margin: 200;
+}
+
+.votos{
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+}
+
+.input{
+    margin-left: 10px;
+}
+
+.candidatos{
+    margin: 10px;
+    justify-content: center;
+    display: flex;
+   
+}
